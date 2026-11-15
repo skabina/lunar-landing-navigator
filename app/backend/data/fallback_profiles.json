@@ -1,0 +1,38 @@
+{
+  "shackleton-rim": {
+    "sun_elevation_base_deg": -1.0,
+    "sun_elevation_amplitude_deg": 12.0,
+    "earth_elevation_offset_deg": -7.0,
+    "azimuth_offset_deg": 0.0
+  },
+  "malapert-massif": {
+    "sun_elevation_base_deg": 1.0,
+    "sun_elevation_amplitude_deg": 14.0,
+    "earth_elevation_offset_deg": -5.0,
+    "azimuth_offset_deg": 35.0
+  },
+  "nobile-region": {
+    "sun_elevation_base_deg": -2.0,
+    "sun_elevation_amplitude_deg": 16.0,
+    "earth_elevation_offset_deg": -6.0,
+    "azimuth_offset_deg": 70.0
+  },
+  "apollo-11": {
+    "sun_elevation_base_deg": -5.0,
+    "sun_elevation_amplitude_deg": 65.0,
+    "earth_elevation_offset_deg": 4.0,
+    "azimuth_offset_deg": 120.0
+  },
+  "apollo-17": {
+    "sun_elevation_base_deg": -8.0,
+    "sun_elevation_amplitude_deg": 62.0,
+    "earth_elevation_offset_deg": 3.0,
+    "azimuth_offset_deg": 180.0
+  },
+  "custom": {
+    "sun_elevation_base_deg": -2.0,
+    "sun_elevation_amplitude_deg": 14.0,
+    "earth_elevation_offset_deg": -5.0,
+    "azimuth_offset_deg": 0.0
+  }
+}
